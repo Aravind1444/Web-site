@@ -1,0 +1,252 @@
+**This code contains HTML and CSS**
+
+<!DOCTYPE html>
+<script>
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<html>
+<head>
+    <style>
+        html{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Handlee', cursive;
+    font-size:13pt;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 0;
+}
+h1{
+    font-size: 20pt;
+    color: #20bcd5;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+h1 span{
+    border: 4px dashed #20bcd5;
+    padding: 10px
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+.img-circle {
+    padding-left: 435px;
+    padding-right: 435px; 
+    border: 3px solid white;
+    border-radius: 60%;
+}
+.section{
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;     
+}
+.quote{
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
+table{
+    width: 100%;
+    font-size: 11pt;
+}
+form{
+    text-align: center;
+    margin-top: 0;
+}
+textarea{
+    height: 100px;
+}
+.submit{
+    background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+.submit:hover{
+    background-color: #43a09d;
+}
+input, textarea{
+    margin-bottom: 10px;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: #787575;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+}
+.face{
+    transform: scale(0.4);
+    margin: 0 auto;
+    display: block;
+    margin-top: -35px;
+    margin-bottom: -25px;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Handlee', cursive;
+    font-size:13pt;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 0;
+}
+h1{
+    font-size: 15pt;
+    color: #20bcd5;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+h1 span{
+    border: 4px dashed #20bcd5;
+    padding: 10px
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section{
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+     
+}
+.quote{
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
+table{
+    width: 75%;
+    font-size: 11pt;
+}
+form{
+    text-align: center;
+    margin-top: 0;
+}
+textarea{
+    height: 100px;
+}
+.submit{
+    background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+.submit:hover{
+    background-color: #43a09d;
+}
+input, textarea{
+    margin-bottom: 10px;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: #787575;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+}
+.face{
+    transform: scale(0.4);
+    margin: 0 auto;
+    display: block;
+    margin-top: -35px;
+    margin-bottom: -25px;
+}
+
+    </style>
+    <TITLE>My Blog</TITLE>
+</head>
+<body background="https://3.bp.blogspot.com/-WhH0Lbzg8Es/WtitIWo8HwI/AAAAAAAAEis/dIiJDZAgkIgtIO6kezbMemofr7Olxz3ZQCLcBGAs/s1600/images.jpg"> </body>
+<body>
+    
+        <H1>Wlecome to my creativity</H1>
+    <img align="center" alt="" class="img-circle" src="https://1.bp.blogspot.com/-9vxjkX-P5gE/Wti9Z_BnZ_I/AAAAAAAAEi8/bjbUhf4tewsk02arm5d_V6DowBaWqzj4ACLcBGAs/s1600/AAIA_wDGAAAAAQAAAAAAAA1zAAAAJDJjMTA3YjIzLTUxMWEtNDM4Ni05ODdkLWQ2OGEzNjMwNzhlZg"  >
+    <h1 style="color: tomato" align="center"> Aravind Venugopal</h1> </div>
+<div class="section">
+    <h1><span>About Me</span></h1
+<p style="color: black">Hey there! I'm <b>Aravind</b>. I'm a tech lover. Rather than tech, i strongly love and support the modern <b style="color: green"><i> Technologies </i></b> like <b>Artificial Intelligence, Block Chain, Robotics, AR, VR, IoT, </b>etc. I'm  a learner in the field of AI as well as a Web development. I love them very much. I also like Android development, and Blockchain.
+I always try to make my friends aware of these Technologies as much as I can.  </p>
+<p style="color: black">I'm currently an Engineering student in the field of Electronics and Communication. I study at Mar Baselios College of Engineering and Technology.</p>
+<p style="color: black">I also love to build actions for Google Assistanr frequently and is teaching others the same. I have a started an intiative named as <a href="www.t-learninghub.com">T-Learning Hub</a> which aims at bringing good quality educational resources to everyone, inorder to develop a T-shaped skillset in everyone. </p>
+<p style="color: blue" class="quote">"Master the technologies before they kick you out!"</p>
+</div>
+<div class="section">
+</div>
+<div class="section"> 
+<H1><span><b>Projects</b></span></H1>
+<p></p>
+<p style="color: black">
+    1)<b> Bone Fracture Identifier</b></p>
+<p style="color: black"> It is an Artificial Intelligence program which can tell what kind of bone fracture has been formed by looking it at an X-Ray film. The project is partially developed and further training is going-on. Main application of this project comes in the development of #AIforFuture Health Care field.
+</p>
+<p style="color: black")>2) <b> Self Driving Car</b></p>
+    <p style="color: black">In this project, self driving car is under development. It makes use of various sensors and obviously ML for proper training. The project is under development.
+</p>
+<p style="color: black")>3) <b>Websites/Blogs :)</b></p></div>
+<div class="section">
+    <h1><span>My Skills</span></h1>
+    <ul style="color: gold">
+                <li>Python <br />
+<progress min="0" value="75" max="100"> </progress>
+        </li>
+        <li>HTML <br />
+<progress min="0" value="35" max="100"> </progress>
+        </li>
+        <li>Machine Learning <br />
+<progress min="0" value="30" max="100"> </progress>
+        </li>
+        <li>Java <br />
+<progress min="0" value="75" max="100"> </progress>
+        </li>
+                <li>Android <br />
+<progress min="0" value="20" max="100"> </progress>
+        </li>
+    </ul>
+</div>
+<div class="section"> 
+<h1><span>Contact Me</span></h1>
+<svg class="face" height="100" width="100">
+<circle cx="50" cy="50" r="50" fill="#FDD835"/>
+<circle cx="30" cy="30" r="10" fill="#FFFFFF"/>
+<circle cx="70" cy="30" r="10" fill="#FFFFFF"/>
+<circle cx="30" cy="30" r="5" fill="#000000"/>
+<circle cx="70" cy="30" r="5" fill="#000000"/>
+<path d="M 30 70 q 20 20 40 0" stroke="#FFFFFF" stroke-width="5" fill="none"/></svg>
+<form >
+    <input align="center" name="name" placeholder="name" type="text" required/> </br>
+    <input align="center" name="email" placeholder="Email'" type="text" required/> </br>
+<textarea   name= "message"  placeholder="Message" required></textarea> 
+<input   type="submit" value="SEND" class="submit" />
+</form>
+</div>
+<p align="center">Find me on <button  style="color: tomato" <a  href="www.facebook.com/aravind.venugopal.14"></a>facebook</button> <button  style="color: tomato" <a  href="https://www.linkedin.com/in/aravind1444/"></a>Linkedin</button> <button  style="color: tomato" <a  href="https://medium.com/@aravindvenugopal02"></a>Medium</button> 
+ <div class="copyright"> <p align="center" style="color: black">© 2018. My Blog-All rights Reserved.</p>
+     <p></p>
+     <p align="center" style="color: black" >made by aravind</p>
+ </div>
+</body>
+</html>
